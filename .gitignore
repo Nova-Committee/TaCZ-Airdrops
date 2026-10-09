@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/README.md
+!/LICENSE
 !/resource_mod/
 /resource_mod/*.md
 /resource_mod/loot-catalog.json
