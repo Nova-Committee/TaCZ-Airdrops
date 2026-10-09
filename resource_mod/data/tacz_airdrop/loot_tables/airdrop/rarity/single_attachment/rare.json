@@ -1,0 +1,95 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/ammo_mod_fmj",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/ammo_mod_hp",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/extended_mag_3",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/laser_lopro",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/light_extended_mag_3",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_knight_qd",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_mirage",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_phantom_s1",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_ptilopsis",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_sg",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_ursus",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_vulture",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/muzzle_silencer_wraith",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/scope_lpvo_1_6",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/scope_standard_8x",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/shotgun_extended_mag_3",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/attachments/sniper_extended_mag_3",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

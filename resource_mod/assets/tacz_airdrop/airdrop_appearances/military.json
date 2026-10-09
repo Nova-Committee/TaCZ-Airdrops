@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "crate_model": "tacz_airdrop:block/weapon_supply_crate",
+  "parachute_model": "tacz_airdrop:entity/weapon_supply_parachute",
+  "parachute_rig": "tacz_airdrop:parachute/weapon_supply_rig.json",
+  "fallback": "mineral"
+}

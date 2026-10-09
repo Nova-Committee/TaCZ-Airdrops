@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/rarity/single_attachment/common",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/rarity/single_attachment/uncommon",
+          "weight": 30
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/rarity/single_attachment/rare",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/rarity/single_attachment/epic",
+          "weight": 4
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/rarity/single_attachment/legendary",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/ak47",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/aug",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/g36k",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/hk_mp5a5",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/m16a1",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/m16a4",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/m4a1",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/m870",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/qbz_191",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/qbz_95",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/scar_l",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/sks_tactical",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/spr15hb",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/type_81",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/kits/ump45",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

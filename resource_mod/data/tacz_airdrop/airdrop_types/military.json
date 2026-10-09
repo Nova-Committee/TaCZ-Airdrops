@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "display_name": {
+    "translate": "tacz_airdrop.type.military"
+  },
+  "weight": 1,
+  "loot_table": "tacz_airdrop:airdrop/military",
+  "appearance": "tacz_airdrop:military",
+  "required_mods": [
+    "tacz"
+  ],
+  "conditions": {
+    "dimensions": [
+      "#tacz_airdrop:allowed_dimensions"
+    ]
+  }
+}

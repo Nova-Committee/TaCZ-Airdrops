@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/308",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/30_06",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/357mag",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/45_70",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/50ae",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/68x51fury",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/762x54",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "name": "tacz_airdrop:airdrop/ammo/792x57",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

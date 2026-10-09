@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "tacz_airdrop:entity/weapon_supply_parachute"
+    }
+  ]
+}

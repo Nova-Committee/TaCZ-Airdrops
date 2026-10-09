@@ -1,0 +1,6 @@
+newmtl parachute
+Ka 0.25 0.25 0.25
+Kd 1 1 1
+Ks 0 0 0
+d 1
+map_Kd tacz_airdrop:entity/weapon_supply_parachute

@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "model": "tacz_airdrop:models/entity/weapon_supply_parachute.obj",
+  "automatic_culling": false,
+  "shade_quads": true,
+  "flip_v": true,
+  "emissive_ambient": false,
+  "textures": {
+    "particle": "tacz_airdrop:entity/weapon_supply_parachute"
+  }
+}
